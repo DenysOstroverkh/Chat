@@ -1,5 +1,5 @@
 /**
- * @author       Thomas Richard
+ * @author       Krasiuk Oleksii
  * @published    Jul 31, 2022
  * @modified     Aug 4, 2022
  * @description: General methods for connection using socket.io

@@ -1,6 +1,6 @@
 /**
  * Status codes for response
- * @author   Thomas Richard
+ * @author   Krasiuk Oleksii
  * @published Jul 31, 2022
  * @modified  Jul 31, 2022
  */

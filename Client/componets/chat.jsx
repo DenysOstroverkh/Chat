@@ -1,5 +1,5 @@
 /**
- * @author      Thomas Richard
+ * @author      Krasiuk Oleksii
  * @published   Jul 27, 2022
  * @modified 	Jul 30, 2022
  * @description Sider Bar Component for chat

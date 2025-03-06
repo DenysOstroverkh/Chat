@@ -1,5 +1,5 @@
 /**
- * @author      Thomas Richard
+ * @author      Krasiuk Oleksii
  * @published   Jul 31 2022
  * @description Actions to manage messages the users send or receive
  */

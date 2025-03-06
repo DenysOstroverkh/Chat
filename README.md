@@ -1,15 +1,13 @@
 
 # ReactChat
 
-This project is a AFF.
-This site is a last company local site.
-It is secret because this is local business.
-So, I published Chat page of AFF.
-
+This is a chat room functionality as part of the AFF web service.
+The service operates locally, and the owner is keeping it secret for now, that's why I am only revealing these sub-functionalities.
+Anyway, you can explore all its resources freely and gain experience in using React.js and other technologies.
 
 ## Authors
 
-- [Devsworld36428](https://www.github.com/Devsworld36428)
+- [Krasiuk Oleksii]
 
 
 ## IMG

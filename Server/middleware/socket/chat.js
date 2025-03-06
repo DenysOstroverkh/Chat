@@ -1,5 +1,5 @@
 /**
- * @author      Thomas Richard
+ * @author      Krasiuk Oleksii
  * @published   Aug 2 2022
  * @description Socket handler for chatting
  */

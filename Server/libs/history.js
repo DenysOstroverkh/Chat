@@ -2,7 +2,7 @@
  * Library to track all the history progressing in server
  * @published Jul 28, 2022
  * @modified  Jul 28, 2022
- * @author    Thomas Richard
+ * @author    Krasiuk Oleksii
  * @methods
  ** now: Function to get current time in the format
  ** log: Function to save running history into ...

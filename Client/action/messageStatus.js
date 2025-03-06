@@ -1,5 +1,5 @@
 /**
- * @author      Thomas Richard
+ * @author      Krasiuk Oleksii
  * @published   Aug 1 2022
  * @description Actions to manage the status of read or unread messages
  */

@@ -1,5 +1,5 @@
 /**
- * @author     Thomas Richard
+ * @author     Krasiuk Oleksii
  * @published  Aug 3  2023
  * @decription Global variables for chat socket
  */

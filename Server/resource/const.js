@@ -1,6 +1,6 @@
 /**
  * CONSTs that be used in project
- * @author    Thomas Richard
+ * @author    Krasiuk Oleksii
  * @publised Jun 26, 2022
  * @modified  Jun 26, 2022
  * @methods
